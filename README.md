@@ -2,7 +2,6 @@
 
 
 ![파이널 발표자료  pptx_1](https://user-images.githubusercontent.com/91856512/174078321-d8f631ee-5c61-4933-8f90-5f71989fd3da.jpg)
-![파이널 발표자료  pptx_2](https://user-images.githubusercontent.com/91856512/174078324-216f7f19-7348-4469-bf8c-11f6cfd72f24.jpg)
 ![파이널 발표자료  pptx_3](https://user-images.githubusercontent.com/91856512/174078329-c3386e06-9218-460f-bd6d-012709c84226.jpg)
 ![파이널 발표자료  pptx_4](https://user-images.githubusercontent.com/91856512/174078331-4030c208-90c2-42bc-b350-44acfdfef344.jpg)
 ![파이널 발표자료  pptx_5](https://user-images.githubusercontent.com/91856512/174078333-789d6625-0764-49f5-bce7-c65009fd59a6.jpg)
